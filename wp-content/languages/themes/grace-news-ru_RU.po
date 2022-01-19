@@ -1,0 +1,350 @@
+# Translation of Themes - Grace News in Russian
+# This file is distributed under the same license as the Themes - Grace News package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-01 11:05:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Grace News\n"
+
+#. Theme Name of the theme
+msgid "Grace News"
+msgstr "Grace News"
+
+#. Description of the theme
+msgid "The Grace News is a simple, beautiful, wonderfully creative, modern, cutting edge and responsive free magazine style WordPress theme. This theme is especially developed for news, blog, magazines, review, online fashion, lifestyle blog, entertainment, politics, world news, music and other news websites. This multipurpose theme can also be used for business blog, corporate, construction, education blog, yoga, gym, personal, photography, beauty blog, charity, travel and other classic blogs or news websites. It is a very elegant and purposeful theme with a creative look, making it fully compatible with a wide range of applications and usages, from sophisticated online magazines to personal blog. You can start your own online news or compelling magazine website almost instantly with Grace News. The theme is 100% responsive that ensures your site will look amazing on any display device, regardless of its screen size. In addition, this theme is compatible with high-resolution Retina displays and all popular web browsers. The theme is optimized for SEO for improving your search engine ranking. It is also translation ready and is multilingual to make your website in different languages. Demo Link: http://www.gracethemesdemo.com/grace-news/"
+msgstr "Grace News — это простая, красивая, удивительно креативная, современная, передовая и адаптивная бесплатная WordPress-тема  в стиле журнала. Эта тема специально разработана для новостей, блогов, журналов, обзоров, онлайн-моды, блогов о стиле жизни, развлечений, политики, мировых новостей, музыки и других новостных сайтов. Эта многоцелевая тема также может быть использована для бизнес-блогов, корпоративных, строительных, образовательных блогов, йоги, тренажерного зала, личных, фотографий, блогов красоты, благотворительности, путешествий и других классических блогов или новостных сайтов. Она очень элегантная и целеустремленная, с креативным дизайном, что делает её полностью совместимой с широким спектром приложений и областей применения, от сложных онлайн-журналов до личного блога. С помощью Grace News вы можете публиковать свои собственные онлайн-новости или привлекательный сайт журнала практически мгновенно. Тема адаптивна на 100 % и это гарантирует, что ваш сайт будет отлично смотреться на любом устройстве, независимо от его размера. Кроме того, эта тема совместима с дисплеями высокого разрешения Retina и всеми популярными браузерами. Тема оптимизирована для SEO, что означает повышение вашего рейтинга в поисковых системах. Также она готова к переводу, чтобы сделать ваш сайт многоязычным. Демо: http://www.gracethemesdemo.com/grace-news/"
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Архивы"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Рубрика"
+
+#. translators: %s: search term
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Результаты поиска «%s»"
+
+#: content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#. Translators: If there are any character that are not supported by Assistant,
+#. trsnalate this to off, do not translate into your own language.
+#: functions.php:68
+msgctxt "Assistant:on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:50
+msgid "Appears on blog page sidebar"
+msgstr "Появится в области виджетов блога"
+
+#: functions.php:49
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:40
+msgid "Footer Menu"
+msgstr "Меню нижней части"
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Назад"
+
+#: customize-pro/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: customize-pro/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr "Обновить до PRO"
+
+#: content-page.php:23 content-search.php:39 content-single.php:40 image.php:30
+#: image.php:62
+msgid "Edit"
+msgstr "Изменить"
+
+#: content-page.php:18 content-search.php:28 content-single.php:29
+#: content.php:42 image.php:56 template-full-width.php:23
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-single.php:19 content.php:13
+msgid ", "
+msgstr ", "
+
+#: inc/about-themes.php:52
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/about-themes.php:50
+msgid "Live Demo"
+msgstr "Демо"
+
+#: inc/about-themes.php:43
+msgid "Fully compatible with WooCommerce plugin. Just install the plugin and turn your site into a full featured online shop and start selling products."
+msgstr "Полная совместимость с плагином WooCommerce. Просто установите плагин и превратите свой сайт в полнофункциональный интернет-магазин и начинайте продавать товары."
+
+#: inc/about-themes.php:42
+msgid "E-commerce"
+msgstr "Электронная коммерция"
+
+#: inc/about-themes.php:38
+msgid "Our themes are tested in all mordern web browsers and compatible with the latest version including Chrome,Firefox, Safari, Opera, IE11 and above."
+msgstr "Наши темы проверены во всех современных браузерах, включая Chrome, Firefox, Safari, Opera, IE11 и выше, и совместимы с их последними версиями."
+
+#: inc/about-themes.php:37
+msgid "Cross Browser Compatible"
+msgstr "Совместимость с браузерами"
+
+#: inc/about-themes.php:33
+msgid "The themes layout will automatically adjust and fit on any screen resolution and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr "Разметка тем автоматически подстраивается под любое разрешение экрана и отлично смотрится на любом устройстве. Полностью оптимизировано под iPhone и iPad."
+
+#: inc/about-themes.php:32
+msgid "Responsive Ready"
+msgstr "Адаптивный дизайн"
+
+#: inc/about-themes.php:28
+msgid "The built-in customizer panel quickly change aspects of the design and display changes live before saving them."
+msgstr "Встроенная панель настройщика быстро меняет дизайн и отображает изменения в реальном времени перед их сохранением."
+
+#: inc/about-themes.php:27
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: inc/about-themes.php:23
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/about-themes.php:11 inc/about-themes.php:20
+msgid "About Theme Info"
+msgstr "Информация о теме"
+
+#: inc/customizer.php:253
+msgid "Sidebar Options"
+msgstr "Настройки области виджетов"
+
+#: inc/customizer.php:246
+msgid "Check To Show This Section"
+msgstr "Отметьте, чтобы показывать этот раздел"
+
+#: inc/customizer.php:232
+msgid "Add slider Read more button name here"
+msgstr "Укажите название кнопки «Читать далее» в слайдере"
+
+#: inc/customizer.php:111 inc/customizer.php:176
+msgid "Check To show This Section"
+msgstr "Отметьте, чтобы показывать этот раздел"
+
+#: inc/customizer.php:65
+msgid "More color options in PRO Version"
+msgstr "Больше цветовых настрек в PRO-версии"
+
+#: inc/customizer.php:53
+msgid "If you want to box layout please check the Box Layout Option."
+msgstr "Если вы хотите создать разметку, пожалуйста, включите настройку разметки."
+
+#: inc/customizer.php:52
+msgid "Check to Box Layout"
+msgstr "Включите настройку разметки"
+
+#: inc/customizer.php:36
+msgid "Theme Options Panel"
+msgstr "Панель настроек темы"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Найти"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Поиск…"
+
+#: footer.php:18
+msgid "Theme by Grace Themes"
+msgstr "Тема от Grace Themes"
+
+#: footer.php:16
+msgid "Proudly Powered by WordPress"
+msgstr "Работает на WordPress"
+
+#: header.php:114
+msgid "Menu"
+msgstr "Меню"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#: no-results.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать свою первую запись? Начните отсюда."
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к «%2$s»"
+msgstr[1] "%1$s комментария к «%2$s»"
+msgstr[2] "%1$s комментариев к «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к «%s»"
+
+#: content.php:35
+msgid "Learn more &rarr;"
+msgstr "Читать далее &rarr;"
+
+#: inc/customizer.php:64
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: inc/customizer.php:41
+msgid "Site Layout"
+msgstr "Разметка сайта"
+
+#: inc/about-themes.php:51
+msgid "Purchase Pro"
+msgstr "Purchase Pro"
+
+#: inc/customizer.php:221
+msgid "Select page for slide three:"
+msgstr "Выберите страницу для третьего слайдера:"
+
+#: inc/customizer.php:209
+msgid "Select page for slide two:"
+msgstr "Выберите страницу для второго слайдера:"
+
+#: inc/customizer.php:197
+msgid "Select page for slide one:"
+msgstr "Выберите страницу для первого слайдера:"
+
+#: inc/customizer.php:185
+msgid "Default image size for slider is 1400 x 766 pixel."
+msgstr "Размер изображения по умолчанию для слайдера составляет 1400x766 пикселей."
+
+#: inc/customizer.php:183
+msgid "Front Page Slider"
+msgstr "Слайдер главной страницы"
+
+#: inc/customizer.php:162
+msgid "Add linkedin link here"
+msgstr "Добавьте здесь ссылку на LinkedIn"
+
+#: inc/customizer.php:151
+msgid "Add google plus link here"
+msgstr "Добавьте здесь ссылку на Google+"
+
+#: inc/customizer.php:140
+msgid "Add twitter link here"
+msgstr "Добавьте здесь ссылку на Твиттер"
+
+#: inc/customizer.php:129
+msgid "Add facebook link here"
+msgstr "Добавьте здесь ссылку на Facebook"
+
+#: inc/customizer.php:118
+msgid "Add social icons link here to display icons in header."
+msgstr "Добавьте здесь ссылки для социальных значков, чтобы показывать значки в заголовке."
+
+#: inc/customizer.php:117
+msgid "Header social icons"
+msgstr "Социальные значки в заголовке"
+
+#: inc/customizer.php:97
+msgid "Add short description text here"
+msgstr "Укажите краткое описание текста"
+
+#: inc/customizer.php:85
+msgid "Add title text here"
+msgstr "Укажите заголовок текста"
+
+#: inc/customizer.php:73
+msgid "Top News Ticker"
+msgstr "Топ новостей"
+
+#: inc/customizer.php:341
+msgid "Check to hide post category"
+msgstr "Отметьте, чтобы скрыть рубрику записи"
+
+#: inc/customizer.php:327
+msgid "Check to hide post comments"
+msgstr "Отметьте, чтобы скрыть комментарии к записи"
+
+#: inc/customizer.php:314
+msgid "Check to hide post date"
+msgstr "Отметьте, чтобы скрыть дату опубликования записи"
+
+#: inc/customizer.php:300
+msgid "Blog post and Single post options"
+msgstr "Настройки записей в блоге и одиночной записи"
+
+#: inc/customizer.php:294
+msgid "Check to remove thumbnail from blogpost"
+msgstr "Отметьте, чтобы удалить миниатюры из блога"
+
+#: inc/customizer.php:281
+msgid "Check to remove sidebar from single post"
+msgstr "Отметьте, чтобы удалить область виджетов из одной записи"
+
+#: inc/customizer.php:267
+msgid "Check to hide sidebar from home page"
+msgstr "Отметьте, чтобы на домашней странице скрыть область виджетов"
+
+#: inc/about-themes.php:22
+msgid "The Grace News is a simple, beautiful, wonderfully creative, modern, cutting edge and responsive free magazine style WordPress theme. This theme is especially developed for news, blog, magazines, review, online fashion, lifestyle blog, entertainment, politics, world news, music and other news websites."
+msgstr "Grace News — это простая, красивая, удивительно креативная, современная, передовая и адаптивная бесплатная WordPress-тема  в стиле журнала. Эта тема специально разработана для новостей, блогов, журналов, обзоров, онлайн-моды, блогов о стиле жизни, развлечений, политики, мировых новостей, музыки и других новостных сайтов."
+
+#. Author of the theme
+msgid "Grace Themes"
+msgstr "Grace Themes"
+
+#. Author URI of the theme
+msgid "https://gracethemes.com/"
+msgstr "https://gracethemes.com/"
+
+#. Theme URI of the theme
+msgid "https://gracethemes.com/themes/free-magazine-style-wordpress-theme/"
+msgstr "https://gracethemes.com/themes/free-magazine-style-wordpress-theme/"
